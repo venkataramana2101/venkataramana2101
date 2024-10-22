@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkataramana2101
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on githu 
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
